@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd1ed1e3-0c68-49a0-be66-e6f79f148b79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/compare/EqualDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/compare/EqualStringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/condition/Condition1Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/condition/Condition2Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/condition/Condition3Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/condition/LoginDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/condition/LoginDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/condition/SwitchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/conditionaloperator/AndDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/loop/ForDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/loop/WhileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/operator/ArithmeticDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/operator/DivisionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/operator/RemainderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/variables/ConstantDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/variables/DoubleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/variables/IntDatatypeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/variables/IntergerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Variable/org/opentutorials/javatutorials/variables/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/compare/EqualDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/compare/EqualStringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition1Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition2Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition3Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/LoginDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/LoginDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/SwitchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/AndDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/ForDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/WhileDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/operator/ArithmeticDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/operator/DivisionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/operator/RemainderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/variables/ConstantDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/variables/DoubleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/variables/IntDatatypeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/variables/IntergerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/variables/StringDemo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1o1B16hiIDA29WY0eNFOKceXY3M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Basic" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.LoopDepthDemo">
+    <configuration name="AndDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.conditionaloperator.AndDemo" />
+      <module name="Variable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.opentutorials.javatutorials.conditionaloperator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.loop.BreakDemo" />
+      <module name="Variable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.opentutorials.javatutorials.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.loop.ForDemo" />
+      <module name="Variable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.opentutorials.javatutorials.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginDemo2_1st" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.condition.LoginDemo2" />
+      <module name="Variable" />
+      <option name="PROGRAM_PARAMETERS" value="hojun 12345" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginDemo_yurim" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.condition.LoginDemo" />
+      <module name="Variable" />
+      <option name="PROGRAM_PARAMETERS" value="yurim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopDepthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.loop.LoopDepthDemo" />
+      <module name="Variable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.opentutorials.javatutorials.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.loop.WhileDemo" />
+      <module name="Variable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.opentutorials.javatutorials.loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginDemo_yurim" />
+      <item itemvalue="Application.LoginDemo2_1st" />
+      <item itemvalue="Application.AndDemo" />
+      <item itemvalue="Application.WhileDemo" />
+      <item itemvalue="Application.ForDemo" />
+      <item itemvalue="Application.BreakDemo" />
+      <item itemvalue="Application.LoopDepthDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopDepthDemo" />
+        <item itemvalue="Application.BreakDemo" />
+        <item itemvalue="Application.ForDemo" />
+        <item itemvalue="Application.WhileDemo" />
+        <item itemvalue="Application.AndDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1ed1e3-0c68-49a0-be66-e6f79f148b79" name="Default Changelist" comment="" />
+      <created>1612443998911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612443998911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Variable$LoginDemo.ic" NAME="LoginDemo Coverage Results" MODIFIED="1613015165855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.opentutorials.javatutorials.condition.*</FILTER>
+    </SUITE>
+  </component>
+</project>
